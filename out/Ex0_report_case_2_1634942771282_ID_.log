@@ -1,0 +1,110 @@
+**** The Simulator log: stage 2
+0.0,OOP_Ex0_Elevator_Simulator
+0.0,Simulated Building, ex0.simulator.Builging_A [-2,10]
+0) ex0.simulator.Elevator_A, Elev_0, speed: 1.0, open/close: 2.0,  start/stop: 3.0
+1) ex0.simulator.Elevator_A, Elev_1, speed: 1.0, open/close: 2.0,  start/stop: 3.0
+0.0,Simulated Period starTime,0.0,  endTime,1000.0,  dt,1.0
+0.0,Simulated  calls,Elevetor log, size: 100
+0.0,**** Simulation starts!! ****
+5.0,Elevator call,4.374727290393253,0,-1,1,0, got allocated to elevator, 0
+17.0,Elevator call,16.957882888088932,-1,0,1,0, got allocated to elevator, 0
+23.0,Elevator call,22.094056301593582,0,-1,1,0, got allocated to elevator, 0
+86.0,Elevator call,85.5209666204754,3,2,1,0, got allocated to elevator, 0
+92.0,Elevator call,91.21019413453945,-1,-2,1,0, got allocated to elevator, 0
+105.0,Elevator call,104.13701241869234,0,4,1,0, got allocated to elevator, 0
+110.0,Elevator call,109.21352909346587,-1,0,1,0, got allocated to elevator, 0
+115.0,Elevator call,114.39235096774041,3,0,1,0, got allocated to elevator, 0
+125.0,Elevator call,124.42557095980362,0,9,1,0, got allocated to elevator, 0
+131.0,Elevator call,130.02495678190564,8,10,1,0, got allocated to elevator, 0
+131.0,Elevator call,130.224911275492,-1,1,1,0, got allocated to elevator, 0
+138.0,Elevator call,137.9515274326701,0,4,1,0, got allocated to elevator, 0
+144.0,Elevator call,143.91335838799415,0,6,1,0, got allocated to elevator, 0
+170.0,Elevator call,169.78458339380109,-1,0,1,0, got allocated to elevator, 0
+171.0,Elevator call,170.0099620835246,0,6,1,0, got allocated to elevator, 0
+172.0,Elevator call,171.21173315221364,-1,8,1,0, got allocated to elevator, 0
+175.0,Elevator call,174.84385152106802,0,-1,1,0, got allocated to elevator, 0
+188.0,Elevator call,187.11678617348463,-1,-2,1,0, got allocated to elevator, 0
+188.0,Elevator call,187.7299317966884,-1,-2,1,0, got allocated to elevator, 0
+196.0,Elevator call,195.90869649656992,0,7,1,0, got allocated to elevator, 0
+198.0,Elevator call,197.5359191292572,-1,1,1,0, got allocated to elevator, 0
+206.0,Elevator call,205.9895199338651,-1,0,1,0, got allocated to elevator, 0
+228.0,Elevator call,227.0798304557929,-1,5,1,0, got allocated to elevator, 0
+232.0,Elevator call,231.51578817426258,-1,0,1,0, got allocated to elevator, 0
+233.0,Elevator call,232.95043623946805,0,-1,1,0, got allocated to elevator, 0
+252.0,Elevator call,251.10444690749756,-1,-2,1,0, got allocated to elevator, 0
+252.0,Elevator call,251.23593354161653,0,9,1,0, got allocated to elevator, 0
+255.0,Elevator call,254.69771525200505,3,4,1,0, got allocated to elevator, 0
+258.0,Elevator call,257.7974435335086,-1,0,1,0, got allocated to elevator, 0
+296.0,Elevator call,295.7943356681491,0,1,1,0, got allocated to elevator, 0
+305.0,Elevator call,304.99843880775313,6,0,1,0, got allocated to elevator, 0
+310.0,Elevator call,309.30053828560517,0,-1,1,0, got allocated to elevator, 0
+313.0,Elevator call,312.30185564398687,0,-1,1,0, got allocated to elevator, 0
+317.0,Elevator call,316.03237827404377,0,-1,1,0, got allocated to elevator, 0
+320.0,Elevator call,319.90520204415634,6,5,1,0, got allocated to elevator, 0
+321.0,Elevator call,320.97607492210807,-1,0,1,0, got allocated to elevator, 0
+322.0,Elevator call,321.37040904796595,7,-1,1,0, got allocated to elevator, 0
+333.0,Elevator call,332.4267319393355,0,10,1,0, got allocated to elevator, 0
+337.0,Elevator call,336.93043046159545,-1,0,1,0, got allocated to elevator, 0
+376.0,Elevator call,375.49048095381363,1,0,1,0, got allocated to elevator, 0
+393.0,Elevator call,392.5160764870397,0,5,1,0, got allocated to elevator, 0
+406.0,Elevator call,405.1821140884023,-1,10,1,0, got allocated to elevator, 0
+427.0,Elevator call,426.8615805478589,2,0,1,0, got allocated to elevator, 0
+438.0,Elevator call,437.17111576125836,1,0,1,0, got allocated to elevator, 0
+473.0,Elevator call,472.7445473930129,10,-1,1,0, got allocated to elevator, 0
+501.0,Elevator call,500.3712044996745,8,-1,1,0, got allocated to elevator, 0
+504.0,Elevator call,503.13847841893045,1,-1,1,0, got allocated to elevator, 0
+505.0,Elevator call,504.4317942159655,0,-1,1,0, got allocated to elevator, 0
+530.0,Elevator call,529.6277472128405,3,-1,1,0, got allocated to elevator, 0
+538.0,Elevator call,537.7866883694313,-1,6,1,0, got allocated to elevator, 0
+545.0,Elevator call,544.7880392034898,6,-1,1,0, got allocated to elevator, 0
+555.0,Elevator call,554.0892922920482,4,0,1,0, got allocated to elevator, 0
+558.0,Elevator call,557.2441390036331,10,0,1,0, got allocated to elevator, 0
+566.0,Elevator call,565.0195521745534,0,-1,1,0, got allocated to elevator, 0
+582.0,Elevator call,581.8703090238192,0,3,1,0, got allocated to elevator, 0
+597.0,Elevator call,596.1232022872633,8,0,1,0, got allocated to elevator, 0
+601.0,Elevator call,600.9312879686208,1,0,1,0, got allocated to elevator, 0
+604.0,Elevator call,603.9342326983083,7,0,1,0, got allocated to elevator, 0
+618.0,Elevator call,617.9628338542149,0,3,1,0, got allocated to elevator, 0
+620.0,Elevator call,619.6454196970012,9,0,1,0, got allocated to elevator, 0
+627.0,Elevator call,626.2116172047942,0,1,1,0, got allocated to elevator, 0
+644.0,Elevator call,643.8547514955396,-1,2,1,0, got allocated to elevator, 0
+661.0,Elevator call,660.0732907797126,6,10,1,0, got allocated to elevator, 0
+662.0,Elevator call,661.0420820268716,-1,3,1,0, got allocated to elevator, 0
+663.0,Elevator call,662.1730527520776,-1,5,1,0, got allocated to elevator, 0
+666.0,Elevator call,665.1155548533167,-1,8,1,0, got allocated to elevator, 0
+667.0,Elevator call,666.0340294605869,4,0,1,0, got allocated to elevator, 0
+667.0,Elevator call,666.2411586665262,5,-1,1,0, got allocated to elevator, 0
+673.0,Elevator call,672.677314157026,0,-1,1,0, got allocated to elevator, 0
+678.0,Elevator call,677.7341948387335,0,-1,1,0, got allocated to elevator, 0
+679.0,Elevator call,678.9953584914538,-1,-2,1,0, got allocated to elevator, 0
+696.0,Elevator call,695.2239881566923,0,10,1,0, got allocated to elevator, 0
+707.0,Elevator call,706.1583474999188,-1,-2,1,0, got allocated to elevator, 0
+711.0,Elevator call,710.3249770041223,0,1,1,0, got allocated to elevator, 0
+714.0,Elevator call,713.0191971398395,1,0,1,0, got allocated to elevator, 0
+714.0,Elevator call,713.2499766424826,10,-1,1,0, got allocated to elevator, 0
+723.0,Elevator call,722.6161212799507,10,0,1,0, got allocated to elevator, 0
+728.0,Elevator call,727.514602863032,-1,0,1,0, got allocated to elevator, 0
+733.0,Elevator call,732.9746341348998,6,-1,1,0, got allocated to elevator, 0
+738.0,Elevator call,737.314720213409,1,0,1,0, got allocated to elevator, 0
+780.0,Elevator call,779.399691386574,-1,5,1,0, got allocated to elevator, 0
+806.0,Elevator call,805.6754743307536,-1,-2,1,0, got allocated to elevator, 0
+811.0,Elevator call,810.4469089359914,2,0,1,0, got allocated to elevator, 0
+817.0,Elevator call,816.1516998390152,7,-1,1,0, got allocated to elevator, 0
+826.0,Elevator call,825.4575184586336,7,0,1,0, got allocated to elevator, 0
+840.0,Elevator call,839.8525652620532,0,1,1,0, got allocated to elevator, 0
+855.0,Elevator call,854.2002278085795,6,-1,1,0, got allocated to elevator, 0
+864.0,Elevator call,863.893291272948,0,-1,1,0, got allocated to elevator, 0
+871.0,Elevator call,870.5053023797483,0,7,1,0, got allocated to elevator, 0
+887.0,Elevator call,886.5649993239458,-1,-2,1,0, got allocated to elevator, 0
+893.0,Elevator call,892.5212150591021,9,-1,1,0, got allocated to elevator, 0
+911.0,Elevator call,910.5388559417848,6,5,1,0, got allocated to elevator, 0
+916.0,Elevator call,915.9490574608818,4,-1,1,0, got allocated to elevator, 0
+934.0,Elevator call,933.8580452488764,7,5,1,0, got allocated to elevator, 0
+962.0,Elevator call,961.6862855708133,6,-1,1,0, got allocated to elevator, 0
+973.0,Elevator call,972.8032126022729,1,0,1,0, got allocated to elevator, 0
+976.0,Elevator call,975.8361202753667,0,-1,1,0, got allocated to elevator, 0
+979.0,Elevator call,978.5925148564796,10,0,1,0, got allocated to elevator, 0
+979.0,Elevator call,978.6210500641439,10,-1,1,0, got allocated to elevator, 0
+985.0,Elevator call,984.1840185574983,7,0,1,0, got allocated to elevator, 0
+1000.0,************* Simulation Ended ************
+Code Owners,123456789,  Case,2,  Total waiting time: 49726.79282212018,  average waiting time per call: 497.2679282212018,  unCompleted calls,100,  certificate, -45972825858

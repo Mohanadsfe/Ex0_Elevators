@@ -1,0 +1,34 @@
+**** The Simulator log: stage 1
+0.0,OOP_Ex0_Elevator_Simulator
+0.0,Simulated Building, ex0.simulator.Builging_A [-2,10]
+0) ex0.simulator.Elevator_A, Elev_0, speed: 1.0, open/close: 2.0,  start/stop: 3.0
+0.0,Simulated Period starTime,0.0,  endTime,100.0,  dt,1.0
+0.0,Simulated  calls,Elevetor log, size: 10
+0.0,**** Simulation starts!! ****
+0.0, elevID,0,  pos,-2,  cmd, goto,-1
+1.0,Elevator call,0.437472729039321,0,-1,1,0, got allocated to elevator, 0
+3.0,Elevator call,2.2094056301593525,0,-1,1,0, got allocated to elevator, 0
+11.0, elevID,0,  pos,-1,  cmd, goto,0
+19.0,Elevator call,18.77299317966884,-1,-2,1,0, got allocated to elevator, 0
+20.0,Elevator call,19.590869649656987,0,7,1,0, got allocated to elevator, 0
+22.0,Elev,0,  arrived at src, 0, Elevator call,0.437472729039321,0,-1,2,0
+22.0,Elev,0,  arrived at src, 0, Elevator call,2.2094056301593525,0,-1,2,0
+22.0,Elev,0,  arrived at src, 0, Elevator call,19.590869649656987,0,7,2,0
+22.0, elevID,0,  pos,0,  cmd, goto,1
+30.0,Elevator call,29.579433566814906,0,1,1,0, got allocated to elevator, 0
+33.0, elevID,0,  pos,1,  cmd, goto,2
+34.0,Elevator call,33.242673193933555,0,10,1,0, got allocated to elevator, 0
+44.0, elevID,0,  pos,2,  cmd, goto,3
+53.0,Elevator call,52.96277472128405,3,-1,1,0, got allocated to elevator, 0
+55.0,Elev,0,  arrived at src, 3, Elevator call,52.96277472128405,3,-1,2,0
+55.0, elevID,0,  pos,3,  cmd, goto,4
+65.0,Elevator call,64.38547514955395,-1,2,1,0, got allocated to elevator, 0
+66.0, elevID,0,  pos,4,  cmd, goto,5
+73.0,Elevator call,72.26161212799506,10,0,1,0, got allocated to elevator, 0
+77.0, elevID,0,  pos,5,  cmd, goto,6
+81.0,Elevator call,80.56754743307536,-1,-2,1,0, got allocated to elevator, 0
+88.0, elevID,0,  pos,6,  cmd, goto,7
+99.0,Elev,0,  arrived at dest, 7, this call is done!, Elevator call,19.590869649656987,0,7,3,0, Done, dt, 79.40913035034302
+99.0, elevID,0,  pos,7,  cmd, goto,8
+100.0,************* Simulation Ended ************
+Code Owners,208113381,206467292,  Case,1,  Total waiting time: 624.9897426188187,  average waiting time per call: 62.49897426188187,  unCompleted calls,9,  certificate, -2014937632
